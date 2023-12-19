@@ -1,7 +1,8 @@
 #include<stdio.h>
-it main()
+int main()
 {
-add();
+add(){
+  printf("addition");}
 sub();
 mul();
 div();
