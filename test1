@@ -1,0 +1,8 @@
+#include<stdio.h>
+it main()
+{
+add();
+sub();
+mul();
+div();
+}
