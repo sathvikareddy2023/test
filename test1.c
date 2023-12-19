@@ -3,7 +3,10 @@ int main()
 {
 add(){
   printf("addition");}
-sub();
+sub()
+{
+  printf("substraction);
+    }
 mul();
 div();
 }
